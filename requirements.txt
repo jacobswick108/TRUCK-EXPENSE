@@ -1,9 +1,2 @@
 streamlit
 pandas
-numpy
-matplotlib
-openpyxl
-google-generativeai
-pillow
-html5lib
-pytesseract
